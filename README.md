@@ -1,9 +1,9 @@
 # autofilterbot
 <p align="center">
-  <img src="assets/87893573.png" alt="Ajax-Extra-FeaturesLogo">
+  <img src="assets/87893573.img" alt="Ajax-Extra-FeaturesLogo">
 </p>
 <h1 align="center">
-  <b>𝙰𝙹𝙰𝚇-𝙴𝚇𝚃𝚁𝙰-𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂</b>
+  <b>ME-ADWAIDH-AUTO-FILTER-BOT</b>
 </h1>
 
 <a href="https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA">
